@@ -1,0 +1,88 @@
+baseURL = "https://maximousblk.now.sh/"
+title = "Maximous Black"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsStyle = "dracula"
+paginate = 10
+copyright = '<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener">CC BY-NC-ND 4.0</a>' # This message is only used by the RSS template.
+
+# googleAnalytics = ""
+# disqusShortname = ""
+[permalinks]
+posts = "/post/:title/"
+
+[author]
+name = "Maximous Black"
+
+[blackfriday]
+hrefTargetBlank = true
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+series = "series"
+
+[params]
+# Metadata mostly used in document's head
+description = "I'm a Web Developer who likes building beautiful web interfaces & experiences."
+keywords = ""
+images = [""]
+homeSubtitle = "I'm a Web Developer who likes building beautiful web interfaces & experiences."
+# Set disableReadOtherPosts to true in order to hide the links to other posts.
+disableReadOtherPosts = true
+# Default theme "light" or "dark"
+defaultTheme = "light"
+
+[params.logo]
+logoText = "Maximous Black"
+logoHomeLink = "/"
+
+[params.portrait]
+path = "/logo.png"
+alt = "logo"
+
+# Social icons
+[[params.social]]
+name = "github"
+url = "https://github.com/maximousblk"
+
+[[params.social]]
+name = "twitter"
+url = "https://twitter.com/maximousblk"
+
+[[params.social]]
+name = "instagram"
+url = "https://instagram.com/maximousblk"
+
+[[params.social]]
+name = "keybase"
+url = "https://keybase.io/maximousblk"
+
+[[params.social]]
+name = "medium"
+url = "https://medium.com/@maximousblk"
+
+[[params.social]]
+name = "telegram"
+url = "https://t.me/maximousblk"
+
+[[params.social]]
+name = "email"
+url = "mailto:maximousblk@gmail.com"
+
+[menu]
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "about/"
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "posts/"
+
+[[menu.main]]
+identifier = "RSS"
+name = "RSS"
+url = "posts/index.xml"

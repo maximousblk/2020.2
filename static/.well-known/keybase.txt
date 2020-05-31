@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/maximousblk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://maximousblk.now.sh
+  * I am maximousblk (https://keybase.io/maximousblk) on keybase.
+  * I have a public key with fingerprint C24B F071 EBAB ECAA 7A66  CB9C EC7B EE3B 0561 BF2F
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101cdfb78a24eac79031a15f7ddf60b5abd2a6e7c1deabb2ba6a94b1241e92e03ff0a",
+      "fingerprint": "c24bf071ebabecaa7a66cb9cec7bee3b0561bf2f",
+      "host": "keybase.io",
+      "key_id": "ec7bee3b0561bf2f",
+      "kid": "0101cdfb78a24eac79031a15f7ddf60b5abd2a6e7c1deabb2ba6a94b1241e92e03ff0a",
+      "uid": "5d867b730b77110dcdfca81567b6df19",
+      "username": "maximousblk"
+    },
+    "merkle_root": {
+      "ctime": 1590749984,
+      "hash_meta": "d3351cd5161b73b367f504edb3e762a363cc1e4a65f252cf80d07552c3f24998",
+      "seqno": 16440465
+    },
+    "revoke": {
+      "sig_ids": [
+        "dfa97091ab008fb0bc3fc33da76fad2f28f441f1a1b4a81ea5f40f34aa3148180f"
+      ]
+    },
+    "service": {
+      "hostname": "maximousblk.now.sh",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1590749989,
+  "expire_in": 157680000,
+  "prev": "2add78d8daf9dcfaa1a3465bc272440f49f0d582f5c5e0f5970ad663e2049f81",
+  "seqno": 46,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMK2AnicrZNbaBxVGMc3NYl2Jbb6ILFKhSmiYAjnfmaWqKXBipCqBBaFNl3ONRl2
+d2admVx6SVIL2oJKS1MvD4KCttKnpqKlwWJtG4q1XvpgW4T4lFoj22oEX2oVPRMU
+QX10XmbmnP/3//7fb+bMdtxUKLYsrJ+7Ov3rqnLLuVM7hgubzzfv2+bJWG/xStu8
+qlm6mZo2aVaphtoreQACqLSV3BeIGKF4ADAUkFqutWVAUiE1EsxwBbURUiIpmAiI
+hIhAEyADsLVAeF2eDaNBkzSSMMqcrUJEWsChkUIaJQQXjCkZKKO4NAZLQBmUFllX
+OBSneYULJ0VqusPYrbmXylK8/9D/z7mHl+yo9hmXHAPJOYRAO2slfEjdItMWBrkw
+NUkk6sap62IsrMfDqaxVvfEur26Sas1UkjjOcr4qC3MVpAHgJAh84mYU6VClbjLh
+ijXG1EWn0E3EscSMWwqI0RIbzpDADCsFDRGMWkSRsj7QgFP3hC3K7VyU1Dwbxa4D
+IwQQRl2ExIzEVZN3T8NBhy71Shs9bUXAQQCFBMC3EkhnoTDWgjMrNLLIt4RA67BJ
+4oY1gloCLCZCYEh86APrDYzn3ZKRUC2Z59/q3wy6o3i0Ox1ywRpJnMUqrrn9oSxr
+pKUcT7alkReMGln506oiw0i7/8VVjJgkDePIDeOU/yQXdHlmrBEmphLmCsqZD9yV
+9zEjzhIJrbmvfS1soJUVAgrseEiFOHJoLAks0NRHlipqgKWOhtCMYYOA2/Lh3ygJ
+cznFoPN0/CKRDSfGGz/18abWQkux0N62LD9IheLylX8dr57Wm39b3X9ktnnu9oGD
+vf788c7FtuZA59jMshOPXXrkHv9K172rChdeYc+tPjzxQfHkyT3o+MMLC9v7frjj
+wf5yP1yz4aW1z++6oj6/2+7+sX3y/a/pbPsOtegdhH2Dds0Do1P0i8+e+uShF8xr
+G65OlK7DfR23XL449+H43ifb+c4X3+r5aGHnM9FPu1e8uu9Y29tTvYXKCtn7zcTj
+t85f6tj487vbo/uf+Or63OELYLKz1EnPvnH0dHOm7/t18y+H+7P18+W139525sae
+zdPX3lOLh26YqL9cFE/PvN78/c1j++nU6Y7FrWdgmfzSemDr5bN3nv9y79j0O9/d
+1XOxduBI566VJyavFdct/7RQf/QP0YeMaw==
+=oo3v
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/maximousblk
+
+==================================================================
