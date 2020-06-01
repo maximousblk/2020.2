@@ -1,14 +1,10 @@
 ---
 date: 2020-05-21
 title: Deno for JavaScript Beginners
-series:
-  - Deno
 Cover: covers/deno-for-javascript-beginners.png
 tags:
   - deno
-  - beginners
   - javascript
-  - node
 ---
 
 So, you're trying to learn JavaScript. You have just gotten a bit fluent with JavaScript in the browser. Then all of a sudden, you come across [Deno](https://deno.land/) and the #NodeKiller hype. But you don't know what any of these are. If that's the case, read on!
@@ -109,7 +105,7 @@ Let's say you want to create two different projects but they both use JQuery, yo
 
 And if there's a meme about it, then you know it's serious. This is one of the slides from the presentation.
 
-![node_modules](https://i.imgur.com/r2wQVqr.jpg)
+![node_modules](/images/deno-for-javascript-beginners/node_modules.jpg)
 
 ### index.js
 
