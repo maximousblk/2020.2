@@ -6,7 +6,7 @@ PygmentsStyle = "dracula"
 paginate = 10
 copyright = '<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener">CC BY-NC-ND 4.0</a>' # This message is only used by the RSS template.
 
-# googleAnalytics = ""
+googleAnalytics = "UA-131672698-1"
 # disqusShortname = ""
 [permalinks]
 posts = "/post/:title/"
