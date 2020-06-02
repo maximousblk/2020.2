@@ -79,7 +79,7 @@ url = "about/"
 
 [[menu.main]]
 identifier = "posts"
-name = "Blog posts"
+name = "Posts"
 url = "posts/"
 
 [[menu.main]]
