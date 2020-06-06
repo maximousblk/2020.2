@@ -4,9 +4,9 @@ languageCode = "en-us"
 PygmentsCodeFences = true
 PygmentsStyle = "dracula"
 paginate = 10
-copyright = '<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener">CC BY-NC-ND 4.0</a>' # This message is only used by the RSS template.
-
+copyright = 'This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International license'
 googleAnalytics = "UA-131672698-1"
+
 # disqusShortname = ""
 [permalinks]
 posts = "/post/:title/"
@@ -25,13 +25,17 @@ series = "series"
 [params]
 # Metadata mostly used in document's head
 description = "I'm a Web Developer who likes building beautiful web interfaces & experiences."
-keywords = ""
-images = [""]
+images = ["og_home.jpg"]
+keywords = "maximous, black, web, developer, software, engneer, javascript, design"
 homeSubtitle = "I'm a Web Developer who likes building beautiful web interfaces & experiences."
-# Set disableReadOtherPosts to true in order to hide the links to other posts.
-disableReadOtherPosts = true
-# Default theme "light" or "dark"
-defaultTheme = "light"
+og_image = "og_home.jpg"
+preconnect = ["https://rsms.me/", "https://cdn.maximousblk.now.sh/"]
+defaultTheme = "light" # "light" or "dark"
+handle = "maximousblk"
+
+[params.license]
+text = "CC BY-NC-ND 4.0"
+link = "https://creativecommons.org/licenses/by-nc-nd/4.0/"
 
 [params.logo]
 logoText = "Maximous Black"
@@ -39,7 +43,7 @@ logoHomeLink = "/"
 
 [params.portrait]
 path = "/logo.png"
-alt = "logo"
+alt = "]V["
 
 # Social icons
 [[params.social]]
