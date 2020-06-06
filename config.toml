@@ -25,10 +25,10 @@ series = "series"
 [params]
 # Metadata mostly used in document's head
 description = "I'm a Web Developer who likes building beautiful web interfaces & experiences."
-images = ["og_home.png"]
+images = ["og.png"]
 keywords = "maximous, black, web, developer, software, engneer, javascript, design"
 homeSubtitle = "I'm a Web Developer who likes building beautiful web interfaces & experiences."
-og_image = "og_home.png"
+og_image = "og.png"
 preconnect = ["https://rsms.me/", "https://cdn.maximousblk.now.sh/"]
 defaultTheme = "light" # "light" or "dark"
 handle = "maximousblk"
