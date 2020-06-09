@@ -6,6 +6,8 @@ PygmentsStyle = "dracula"
 paginate = 10
 copyright = 'This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International license'
 googleAnalytics = "UA-131672698-1"
+enableGitInfo = false
+enableEmoji = true
 
 # disqusShortname = ""
 [permalinks]
@@ -13,9 +15,6 @@ posts = "/post/:title/"
 
 [author]
 name = "Maximous Black"
-
-[blackfriday]
-hrefTargetBlank = true
 
 [taxonomies]
 tag = "tags"
@@ -32,6 +31,8 @@ og_image = "og.png"
 preconnect = ["https://rsms.me/", "https://cdn.maximousblk.now.sh/"]
 defaultTheme = "light" # "light" or "dark"
 handle = "maximousblk"
+disableReadOtherPosts = true
+themeColor = "#5468FF"
 
 [params.license]
 text = "CC BY-NC-ND 4.0"
@@ -94,3 +95,6 @@ url = "posts/"
 identifier = "RSS"
 name = "RSS"
 url = "posts/index.xml"
+
+[minify]
+minifyOutput = true
