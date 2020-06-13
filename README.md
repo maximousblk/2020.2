@@ -8,4 +8,4 @@ I use a modified version of [rhazdon/hugo-theme-hello-friend-ng](https://github.
 
 ## License
 
-The contents of the [`content`](content) directory are licenced under the [CC BY-NC-ND 4.0 License](LICENSE)
+The [posts](content/posts) on this blog are licenced under the [CC BY-NC-ND 4.0 License](LICENSE)
