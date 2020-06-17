@@ -76,6 +76,10 @@ name = "dribbble"
 url = "https://dribbble.com/maximousblk"
 
 [[params.social]]
+name = "hashnode"
+url = "https://hashnode.com/@maximousblk"
+
+[[params.social]]
 name = "email"
 url = "mailto:maximousblk@gmail.com"
 
