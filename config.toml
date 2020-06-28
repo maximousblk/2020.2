@@ -56,10 +56,6 @@ name = "twitter"
 url = "https://twitter.com/maximousblk"
 
 [[params.social]]
-name = "devto"
-url = "https://dev.to/maximousblk"
-
-[[params.social]]
 name = "instagram"
 url = "https://instagram.com/maximousblk"
 
