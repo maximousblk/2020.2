@@ -1,6 +1,6 @@
 # My personal website
 
-[maximousblk.now.sh](https://maximousblk.now.sh)
+[2020-2.maximousblk.now.sh](https://2020-2.maximousblk.now.sh)
 
 ## Attribution
 
